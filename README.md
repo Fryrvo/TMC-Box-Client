@@ -4,6 +4,11 @@
 This is optimization, utility, Quality of Life modpack
 This modpack did not effect any Vanilla game Mechanics in anyway
 
+### Features
+* **Performance Optimization:**
+* **Technical Utilities:** 
+* **Inventory & QoL Management:**
+
 **Latest release mod list**
 
 <details>
